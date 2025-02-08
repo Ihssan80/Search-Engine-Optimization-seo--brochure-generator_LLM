@@ -1,4 +1,4 @@
-# **SEO Brochure Generator 🚀**
+# **SEO Brochure Generator using LLM (OpenAI) 🚀**
 
 A Python-based tool that **transforms website content into engaging, SEO-optimized brochures** using **web scraping, OpenAI language models, and multilingual support**.
 
