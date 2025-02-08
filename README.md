@@ -174,21 +174,7 @@ def create_brochure(company_name, url):
 
 ---
 
-## **📌 Contributing**
-🚀 Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch (`feature-new-functionality`).
-3. Submit a pull request with a clear description.
-
----
-
-## **📌 License**
-This project is licensed under the **MIT License**.
-
----
-
 ## **📌 Contact**
 💬 For inquiries or suggestions, reach out at:  
-📧 your_email@example.com  
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+📧 ihssan.alfaqeah@gmail.com  
+🌐 GitHub: [Ihssan80](https://github.com/Ihssan80)
